@@ -1,1 +1,1 @@
-This is my repo for learning python (as well as git). 
+This is my repo for learning Python (as well as git). 
