@@ -1,0 +1,8 @@
+# ODDS OF WINNING THIS GRINDER
+from decimal import Decimal
+
+peopleEntered = 23
+comments = 1789
+odds = round(peopleEntered/comments*100,3)
+
+print(f"{odds}%")
